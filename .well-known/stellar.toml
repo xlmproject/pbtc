@@ -1,0 +1,23 @@
+# stellar.toml for Protocol Bitcoin (BTC) on Stellar Network
+
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Protocol Bitcoin"
+ORG_URL="https://pbtc.pages.dev/"
+ORG_LOGO="https://pbtc.pages.dev/logo.png"
+ORG_DESCRIPTION="Protocol Bitcoin is a groundbreaking digital asset built on the robust Stellar network, launched at an accessible entry point to empower global decentralized finance participation."
+ORG_OFFICIAL_EMAIL="contact@pbtc.pages.dev"
+
+[[CURRENCIES]]
+code="BTC"
+issuer="GBYGQ664KMOYOEIJX3TOLHKL3BGR6SBYE6CHMQS6CQ7MJFCM7YOQPBTC"
+display_decimals=7
+name="Protocol Bitcoin"
+desc="A highly optimized digital asset on the Stellar network, designed for maximum accessibility and exponential growth potential."
+conditions="This token is issued on the Stellar network. Please trade responsibly."
+image="https://pbtc.pages.dev/logo.png"
+
+[[PRINCIPALS]]
+name="Protocol Bitcoin Admin"
+email="admin@pbtc.pages.dev"
