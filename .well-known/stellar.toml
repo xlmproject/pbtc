@@ -21,3 +21,12 @@ image="https://pbtc.pages.dev/logo.png"
 [[PRINCIPALS]]
 name="Protocol Bitcoin Admin"
 email="admin@pbtc.pages.dev"
+
+[[CURRENCIES]]
+code="DIOR"
+issuer="GBYGQ664KMOYOEIJX3TOLHKL3BGR6SBYE6CHMQS6CQ7MJFCM7YOQPBTC"
+display_decimals=7
+name="DIOR"
+desc="A highly optimized digital asset on the Stellar network, designed for maximum accessibility and exponential growth potential."
+conditions="This token is issued on the Stellar network. Please trade responsibly."
+image="https://pbtc.pages.dev/logoDIOR.png"
